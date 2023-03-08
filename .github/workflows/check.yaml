@@ -1,4 +1,4 @@
-ename: check
+name: check
 on:
   push:
 jobs:
